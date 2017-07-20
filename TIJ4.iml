@@ -15,5 +15,8 @@
     <orderEntry type="library" name="Maven: xerces:xercesImpl:2.8.0" level="project" />
     <orderEntry type="library" name="Maven: xalan:xalan:2.7.0" level="project" />
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.20.0-GA" level="project" />
+    <orderEntry type="library" name="tools-1.7.0.51" level="project" />
+    <orderEntry type="library" name="swt" level="project" />
+    <orderEntry type="library" name="javaws" level="project" />
   </component>
 </module>
